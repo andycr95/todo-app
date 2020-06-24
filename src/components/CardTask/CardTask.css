@@ -1,0 +1,138 @@
+
+.task-title{
+  color: #010C3B;
+  font-size: 19px;
+  font-family: Gilroy-Bold;
+  font-weight: 700;
+}
+
+.card {
+  border-radius: 8px;
+  border: none;
+  margin: 0 2px 12px 0;
+}
+
+@media (min-width: 990px) {
+  .card {
+    margin: 0 12px 12px 0;
+  }
+}
+
+.card-header{
+  background-color: #ffffff;
+  border-color: #F0F3FF;
+  height: 53px;
+}
+
+.card-header-active {
+  color: #2DC09D;
+  font-size: 16px;
+}
+
+.card-header-desactive {
+  color: #DC3646;
+  font-size: 16px;
+}
+
+.card-user {
+  font-size: 12px;
+  color: #010C3B;
+  font-family: Gilroy-Medium;
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.card-time {
+  font-size: 12px;
+  color: #333D69;
+  font-family: Gilroy-Medium;
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.card-body-content {
+  margin-top: 10px;
+  border-left: 2px solid #2DC09D;
+  padding-left: 10px;
+}
+
+.card-body-content-title {
+  font-size: 16px;
+  color: #333D69;
+  font-family: Gilroy-Bold;
+  font-weight: 700;
+}
+
+.elp-card {
+  color: #B9BCC4;
+  font-size: 18px;
+}
+
+.dropdown-menu {
+  transform: translate3d(-150px, 15px, 0px) !important;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px #4757A2;
+}
+
+.dropdown-opt {
+  color: #425195;
+  font-size: 14px;
+  font-family: Gilroy-Semibold;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.see {
+  color: #425195;
+  font-size: 20px;
+}
+
+.delete {
+  color: #B8BBC3 !important;
+}
+
+.trash-opt {
+  margin-left: 16px !important;
+  color: #B8BBC3 !important;
+}
+
+.card-body-content-desc {
+  font-size: 13px;
+  color: #333D69;
+  font-family: Gilroy-Regular;
+  font-weight: 600;
+  opacity: .7;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.icon-clock {
+  color: #676D89;
+  font-size: 16px;
+}
+
+.btn-head {
+  background-color: #425195;
+  width: 120px;
+  height: 29px;
+  font-size: 12px;
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: Gilroy-Bold;
+  font-weight: 700;
+}
+
+.card-img-profile {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+.task-subtitle{
+  color: #425195;
+  font-size: 13px;
+  font-family: Gilroy-Bold;
+  font-weight: 700;
+  margin-left: 10px;
+}
